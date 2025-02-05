@@ -1,4 +1,3 @@
-# Justine FAURE
 **Full Stack Developer Student**
 
 ## Some stats
