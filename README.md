@@ -10,7 +10,7 @@
     <td>
       <!-- Second image: GitHub Streak -->
       <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Golden76z&hide_border=true&locale=fr&background=0d1117&ring=52BFEA&stroke=52BFEA&fire=52BFEA&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF" alt="GitHub Streak" width="500"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Ailura4020&hide_border=true&locale=fr&background=0d1117&ring=52BFEA&stroke=52BFEA&fire=52BFEA&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF" alt="GitHub Streak" width="500"/>
       </a>
     </td>
   </tr>
