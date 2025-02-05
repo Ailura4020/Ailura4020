@@ -1,15 +1,27 @@
-# About Me:
-Salut, je suis Justine et je suis actuellement en formation pour devenir développeuse fullstack chez Z01 Normandie<br><br>J'apprends à utiliser différents langages de programmation pour élargir mes compétences et découvrir de nouvelles technologies.<br><br>Pour moi, le travail d'équipe est super important. Je pense que c'est en collaborant et en partageant nos idées qu'on peut créer des solutions vraiment intéressantes et utiles.<br><br>J'ai hâte de mettre en pratique ce que j'apprends et de participer à des projets passionnants. <br><br>N'hésitez pas à me contacter si vous voulez discuter ou collaborer !
+# Justine FAURE
+**Full Stack Developer Student**
+
+## Some stats
+<table>
+  <tr>
+    <td>
+      <!-- First image: Top Languages -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Golden76z&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0000" alt="Top Langs" width="400"/>
+    </td>
+    <td>
+      <!-- Second image: GitHub Streak -->
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Golden76z&hide_border=true&locale=fr&background=0d1117&ring=52BFEA&stroke=52BFEA&fire=52BFEA&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF" alt="GitHub Streak" width="500"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Square Enix](https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=for-the-badge&logo=SquareEnix&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ailura4020&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ailura4020&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ailura4020&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Ailura4020&icon=0&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Programming Languages (Currently Learning)
+[![Go](https://img.shields.io/badge/-Go-00ADD8?&logo=Go&logoColor=ffffff&style=for-the-badge)](https://golang.org/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=000000&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=ffffff&style=for-the-badge)](https://www.w3.org/html/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=CSS3&logoColor=ffffff&style=for-the-badge)](https://developer.mozilla.org/fr/docs/Web/CSS)
+[![Git](https://img.shields.io/badge/-Git-F05032?&logo=Git&logoColor=ffffff&style=for-the-badge)](https://git-scm.com/)
+[![SQLite](https://img.shields.io/badge/-SQLite-003B57?&logo=SQLite&logoColor=ffffff&style=for-the-badge)](https://www.sqlite.org/)
