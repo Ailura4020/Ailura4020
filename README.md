@@ -2,18 +2,16 @@
 
 ## Some stats
 <table>
-  <tr>
-    <td>
-      <!-- First image: Top Languages -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Golden76z&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0000" alt="Top Langs" width="400"/>
-    </td>
-    <td>
-      <!-- Second image: GitHub Streak -->
-      <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Ailura4020&hide_border=true&locale=fr&background=0d1117&ring=52BFEA&stroke=52BFEA&fire=52BFEA&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF" alt="GitHub Streak" width="500"/>
-      </a>
-    </td>
-  </tr>
+ <tr>
+   <td>
+     <!-- First image: Top Languages -->
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ailura4020&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0000" alt="Top Langs" width="400"/>
+   </td>
+   <td>
+     <!-- Second image: GitHub Stats -->
+     <img src="https://github-readme-stats.vercel.app/api?username=Ailura4020&theme=tokyonight&hide_border=true&bg_color=0000" alt="GitHub Stats" width="400"/>
+   </td>
+ </tr>
 </table>
 
 
