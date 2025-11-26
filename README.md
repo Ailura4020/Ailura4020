@@ -4,7 +4,7 @@
 
   <br/>
 
-  <img src="https://media.giphy.com/media/l2QZZnfMwbvZNbVQI/giphy.gif" width="100%" alt="Streets of Rage mood"/>
+  <img src="[https://media.giphy.com/media/l2QZZnfMwbvZNbVQI/giphy.gif" width="100%" alt="Streets of Rage mood](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmM1NTVucjF4bGduNmhyZ3NvMmo2cmVtdHRidGdtcDVmbWNieXpiNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5zw1Qfu0d8qjTme1p7/giphy.gif)"/>
   
   <br/><br/>
 
