@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/votre_image_du_circe_espace.jpg" width="100%" alt="The Circe Spaceship" style="border-radius: 10px; border: 2px solid #333;"/>
+<img src="The_Circe.png" width="100%" alt="The Circe Spaceship" style="border-radius: 10px; border: 2px solid #333;"/>
 
 <br/>
 
@@ -22,7 +22,7 @@
 <table>
   <tr>
     <td width="40%">
-      <img src="assets/G3-M1.jpg" width="100%" style="border-radius: 8px; border: 2px solid #FF0055;"/>
+      <img src="G3-M1.jpg" width="100%" style="border-radius: 8px; border: 2px solid #FF0055;"/>
     </td>
     <td width="60%" style="vertical-align: top; padding-left: 20px;">
       <h2 style="color: #00E5FF; margin-top: 0;">📋 DOSSIER DE L'ÉQUIPAGE</h2>
