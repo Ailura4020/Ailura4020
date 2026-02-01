@@ -22,7 +22,7 @@
   <tr>
     <td align="center" width="45%">
       <h3 style="color: #0d6efd;">CIBLE A : L'OPÉRATRICE</h3>
-      <img src="portraitK" width="250px" style="border: 4px solid #0d6efd; box-shadow: 0 0 15px #0d6efd;" alt="Kana Nivix"/>
+      <img src="portraitK.png" width="250px" style="border: 4px solid #0d6efd; box-shadow: 0 0 15px #0d6efd;" alt="Kana Nivix"/>
       <p><strong>KANA NIVIX</strong></p>
       <p><small><i>Status : Slicer autodidacte. Expertise Full Stack. Ne pas sous-estimer.</i></small></p>
     </td>
