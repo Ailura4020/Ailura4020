@@ -9,20 +9,20 @@
 <br/>
 
 <div align="left" style="width: 85%; background: rgba(255, 0, 85, 0.05); padding: 15px; border-left: 4px solid #FF0055; border-radius: 5px; font-family: 'Courier New', monospace;">
-  <p><strong>🤖 G3-M1 :</strong> <i>"Capitaine, le BSI vient de publier notre fiche. J'ai remplacé leur police standard par de l'Aurebesh et j'ai mis à jour vos nouvelles signatures de Slicing React. C'est plus... propre."</i></p>
-  <p><strong>👩‍🚀 KANA NIVIX :</strong> <i>"Bien joué G3. On ne dépend de personne, mais on s'assure qu'ils sachent exactement qui on est."</i></p>
+  <p><strong>🤖 G3-M1 :</strong> <i>"Capitaine, le flux d'Aurebesh a été intercepté par un pare-feu impérial. J'ai dû forcer le rendu en mode ASCII-Tactique et mettre à jour vos signatures React."</i></p>
+  <p><strong>👩‍🚀 KANA NIVIX :</strong> <i>"Peu importe le code, G3. Tant que le message passe : on arrive."</i></p>
 </div>
 
 <br/>
 
-<img src="https://see.fontimg.com/api/renderfont4/8M77/eyJyIjoiZnMiLCJoIjo2NSwidyI6MTAwMCwiZnMiOjY1LCJmZ2MiOiIjRkYwMDU1IiwiYmdjIjoiIzAwMDAwMCIsInQiOjF9/V0FOVEVE/aurebesh.png" alt="WANTED IN AUREBESH" />
-<h1 style="color: #FF0055; font-family: Orbitron, sans-serif;">🚨 INDIVIDUS DANGEREUX 🚨</h1>
+<h1 style="color: #FF0055; font-family: Orbitron, sans-serif; letter-spacing: 10px; border: 2px solid #FF0055; display: inline-block; padding: 10px 20px;">WANTED</h1>
+<h2 style="color: #FF0055; font-family: Orbitron, sans-serif;">🚨 INDIVIDUS DANGEREUX 🚨</h2>
 <p><i>Recherchés pour Slicing de haut niveau, Contrebande de données et Ironie non autorisée.</i></p>
 
 <table border="0">
   <tr>
     <td align="center" width="45%">
-      <h3 style="color: #0d6efd;">CIBLE A : LA CONTREBANDIÈRE</h3>
+      <h3 style="color: #0d6efd;">CIBLE A : L'OPÉRATRICE</h3>
       <img src="portraitK.png" width="250px" style="border: 4px solid #0d6efd; box-shadow: 0 0 15px #0d6efd;" alt="Kana Nivix"/>
       <p><strong>KANA NIVIX</strong></p>
       <p><small><i>Status : Slicer autodidacte. Expertise React & Full Stack.</i></small></p>
@@ -31,7 +31,7 @@
       <img src="https://img.icons8.com/ios-filled/50/FF0055/skull.png" alt="Danger"/>
     </td>
     <td align="center" width="45%">
-      <h3 style="color: #FF0055;">CIBLE B : L'ACOLYTE</h3>
+      <h3 style="color: #FF0055;">CIBLE B : LE COMPAGNON</h3>
       <img src="G3-M1.png" width="250px" style="border: 4px solid #FF0055; box-shadow: 0 0 15px #FF0055;" alt="G3-M1"/>
       <p><strong>DROÏDE G3-M1</strong></p>
       <p><small><i>Status : Unité autonome. Processeur modifié. Gardien des données.</i></small></p>
@@ -50,7 +50,7 @@
   
   <p><strong>Analyse du BSI :</strong> <i>"Individus utilisant des trophées technologiques volés aux infrastructures impériales."</i></p>
   
-  <p><strong>🤖 G3-M1 :</strong> <strike>"Infrastructures impériales"</strike> → <i>"On appelle ça du recyclage tactique, tas de ferraille impérial."</i></p>
+  <p><strong>🤖 G3-M1 :</strong> <strike>"Infrastructures impériales"</strike> → <i>"On appelle ça du recyclage tactique, tas de ferraille."</i></p>
 
   <ul>
     <li><strong>⚡ PRIORITÉ FRONT-END :</strong> <code>REACT</code> / <code>JS</code> / <code>HTML</code> / <code>CSS</code></li>
