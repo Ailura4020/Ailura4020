@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="The_Circe.png" width="100%" alt="The Circe Spaceship" style="border-radius: 10px; border: 2px solid #FF0055;"/>
+<img src="circe.png" width="100%" alt="The Circe Spaceship" style="border-radius: 10px; border: 2px solid #FF0055;"/>
 
 <br/>
 
