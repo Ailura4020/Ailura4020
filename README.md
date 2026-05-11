@@ -1,23 +1,15 @@
 <div align="center">
-
 <img src="equipage.png" width="100%" alt="The Circe Spaceship" style="border-radius: 10px; border: 2px solid #FF0055;"/>
-
 <br/>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&pause=1000&color=FF0055&center=true&vCenter=true&width=800&lines=⚠️+IMPERIAL+SECURITY+BREACH+⚠️;SEARCH+WARRANT+ISSUED;TARGETS:+KANA+NIVIX+%26+G3-M1" alt="Imperial Alert" />
-
 <br/>
-
 <div align="left" style="width: 85%; background: rgba(255, 0, 85, 0.05); padding: 15px; border-left: 4px solid #FF0055; border-radius: 5px; font-family: monospace;">
-  <p><strong>🤖 G3-M1 :</strong> <i>"Capitaine, le BSI (Bureau de la Sécurité Impériale) vient de publier notre fiche. Leur portrait de vous est... peu flatteur. Je suis en train d'injecter mes propres commentaires dans leur base de données."</i></p>
-  <p><strong>👩‍🚀 KANA NIVIX :</strong> <i>"Fais-toi plaisir, G3. S'ils veulent nous donner de la publicité gratuite, autant qu'elle soit exacte."</i></p>
+  <p><strong>🤖 G3-M1 :</strong> <i>"Visiteur non identifié détecté. Vous avez ouvert ce dossier — ce n'est pas un hasard. L'Empire non plus ne croit pas au hasard. Nous, si."</i></p>
+  <p><strong>👩‍🚀 KANA NIVIX :</strong> <i>"T'as dix secondes pour décider si tu continues. Spoiler : les gens qui partent maintenant ratent toujours quelque chose."</i></p>
 </div>
-
 <br/>
-
 <h1 style="color: #FF0055;">🚨 WANTED : DEUX INDIVIDUS DANGEREUX 🚨</h1>
 <p><i>Recherchés pour Slicing de haut niveau, Contrebande de données et Ironie non autorisée.</i></p>
-
 <table border="0">
   <tr>
     <td align="center" width="45%">
@@ -37,38 +29,34 @@
     </td>
   </tr>
 </table>
-
 <br/>
-
+<div align="left" style="width: 85%; background: rgba(13, 110, 253, 0.05); padding: 15px; border-left: 4px solid #0d6efd; border-radius: 5px; font-family: monospace;">
+  <p><strong>👩‍🚀 KANA NIVIX :</strong> <i>"On ne promet pas que ce sera calme. On promet que le job sera fait."</i></p>
+  <p><strong>🤖 G3-M1 :</strong> <i>"La capitaine omet de mentionner les 3 explosions, les 2 serveurs cramés et le fait qu'on n'a jamais raté une livraison. Je complète."</i></p>
+  <p><strong>👩‍🚀 KANA NIVIX :</strong> <i>"Continue de scroller. Ça devient intéressant."</i></p>
+</div>
+<br/>
 <p align="center"><code>01101011 ---<{(  DATA-LINK  )}>--- 01100001</code></p>
-
 <br/>
-
 <div align="left" style="width: 85%;">
   <h2 style="color: #FF0055;">📂 RAPPORT DE RENSEIGNEMENTS (SKILLS)</h2>
   
   <p><strong>Analyse du BSI :</strong> <i>"Ces individus utilisent des outils non réglementés pour infiltrer les systèmes de la Bordure Extérieure."</i></p>
   
-  <p><strong>🤖 G3-M1 :</strong> <strike>"Outils non réglementés"</strike> → <i>"Nous préférons appeler cela de l'optimisation créative."</i></p>
-
+  <p><strong>🤖 G3-M1 :</strong> <i>"Ce que vous voyez ci-dessous n'est pas un CV. C'est un historique de missions accomplies. Nuance."</i></p>
   <ul>
     <li><strong>Injection Backend :</strong> <code>JAVA</code> / <code>GO</code> / <code>SQLITE</code> (Trophées récupérés sur l'Empire)</li>
     <li><strong>Slicing Frontend :</strong> <code>JS</code> / <code>HTML</code> / <code>CSS</code> (Interfaces détournées)</li>
     <li><strong>Outils de Fuite :</strong> <code>GIT</code> / <code>LINUX</code> (Infrastructure fantôme)</li>
   </ul>
 </div>
-
 <br/>
-
 <h2 style="color: #FF0055;">📈 TRACES DE L'INFILTRATION (STATS)</h2>
 <p><i>L'Empire a détecté les pics d'activité suivants sur le réseau :</i></p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ailura4020&theme=radical&hide_border=true&title_color=FF0055&text_color=ffffff" alt="Stats" />
 </p>
-
 <br/>
-
 <div align="center">
   <h3 style="color: #0d6efd;">⚠️ DERNIÈRE POSITION CONNUE : NORMANDIE</h3>
   <p><i>Si vous apercevez le vaisseau "The Circe", ne tentez pas d'intercepter. Établissez une liaison Com-Link sécurisée.</i></p>
@@ -76,9 +64,10 @@
   <a href="https://www.linkedin.com/in/justine-faure/">
     <img src="https://img.shields.io/badge/SIGNAL_DE_DÉTRESSE-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-
   <br/><br/>
-  <p><strong>🤖 G3-M1 :</strong> <i>"Transmission coupée. Ils ne nous retrouveront pas... à moins que vous ne l'acceptiez sur LinkedIn, Capitaine."</i></p>
+  <div align="left" style="width: 85%; background: rgba(255, 0, 85, 0.05); padding: 15px; border-left: 4px solid #FF0055; border-radius: 5px; font-family: monospace;">
+    <p><strong>🤖 G3-M1 :</strong> <i>"Vous êtes encore là. Bien. Le vaisseau a une place. La question c'est : vous attendez quoi ?"</i></p>
+    <p><strong>👩‍🚀 KANA NIVIX :</strong> <i>"Clique. On verra si t'as le profil."</i></p>
+  </div>
 </div>
-
 </div>
